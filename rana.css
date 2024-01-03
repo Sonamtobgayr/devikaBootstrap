@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+}
+.container{
+    display: flex;
+}
+.img{
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    margin-left: 20px;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+ul li{
+  margin-left:70px;
+}
+.contant{
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    height: 300px;
+}
+
+.img1{
+    height: 300px;
+    width: 400px; 
+    margin-bottom: 100px; 
+    margin: auto;
+    display: block;
+    position: relative;
+    bottom: 50px;
+}
+
+.text{
+    display: flex;
+    margin: auto;
+}
+.p{
+    
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    
+}
+.Program h1{
+    font-weight: bold;
+    padding: 10px;
+    font-size: 50px;
+
+}
+.employee{
+    display: flex;
+    position: relative;
+    margin-left: 30%;
+    padding: 10px;
+}
+.num h1{
+    padding: 2px;
+    margin: 10px;
+    color: white;
+}
+
+.col-4{
+    border: 1px solid black;
+    height: 20vh;
+    border: none;
+}
+
+.card{
+    width: 50%;
+    border: none;
+    position: relative;
+    margin: auto;
+    text-align: center;
+}
+
+#conti{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsGL4hs8cPjF8OSyC-xNCFuDq1OaAdh2epAIYs9xlCX23AGcNNjtbAMzn6dUn2ZqcLAVg&usqp=CAU");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+}
+.card img{
+    height: 300px;
+    margin: 20px;
+   
+}
+
+.ic{
+    background-color:lightgrey;
+    height: 450px;
+    width: 300px;
+    /* margin: 10px; */
+    margin: auto;
+    border-radius: 15px;
+
+}
+
+.Business{
+    display: flex;
+    position: relative;
+    margin: auto;
+    margin-right: 30px;
+    text-align: center;
+}
+.mb-3{
+    margin: 20px;
+}
